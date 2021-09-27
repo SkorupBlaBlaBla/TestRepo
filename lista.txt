@@ -1,1 +1,2 @@
 chlep 3.50
+jajka 5.5

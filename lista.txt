@@ -1,3 +1,4 @@
 chlep 3.50
 jajka 5.5
 maslo 6
+olej 4.4
